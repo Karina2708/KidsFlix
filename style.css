@@ -1,8 +1,22 @@
 body{
 color:aqua;
 background-color:black;
+font-family: sans-serif;
 }
 
 header{
-    
+    color:#ff00ff
+    font-sinze: 50p
+    }
+
+p{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    padding-top: 50px;
 }
