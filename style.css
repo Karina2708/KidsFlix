@@ -19,4 +19,12 @@ h1{
 
 h2{
     padding-top: 50px;
+    text-align: center;
+    font-size: 35px;
+    color: #f0f8ff;
+}
+
+.chamada{
+   color: #f0ffff;
+padding-top: 80px;
 }
